@@ -2,8 +2,12 @@
 A system where content is seamlessly generated and managed through an AI-driven workflow.
 
 Content: Highlights the focus on content management, a core feature of the project.
+
 Flow: Suggests a smooth, automated process, reflecting the framework's automation capabilities.
+
 AI: Directly indicates the integration of artificial intelligence, emphasizing the project's innovative aspect.
+
+## The story with Grok
 
 One day, I asked Grok:
 
