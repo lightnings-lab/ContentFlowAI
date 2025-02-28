@@ -7,13 +7,13 @@ Flow: Suggests a smooth, automated process, reflecting the framework's automatio
 
 AI: Directly indicates the integration of artificial intelligence, emphasizing the project's innovative aspect.
 
-## The story with Grok
+## The story with Grok - Chapter 1
 
 One day, I asked Grok:
 
 you are designing a python framework for automaticly manage AI generated content, grok it out
 
-Grok give me:
+Grok gives me:
 
 ### Key Points
 - Design a Python framework for managing AI-generated content with storage, automation, and AI integration.
@@ -118,7 +118,9 @@ This framework provides a comprehensive solution for managing AI-generated conte
 - [WebFrameworks Python Wiki](https://wiki.python.org/moin/WebFrameworks)
 - [Top Python Frameworks for Web Development in 2024](https://www.drcsystems.com/blogs/python-frameworks-for-web-development/)
 
-He also named the project:
+## The story with Grok - Charpter 2
+
+Grok also named the project:
 
 After considering various options, I recommend naming the project **ContentFlowAI**. This name effectively captures the essence of a Python framework designed for managing AI-generated content with automation, storage, and AI integration. Here's why it works:
 
