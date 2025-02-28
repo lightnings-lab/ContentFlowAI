@@ -130,6 +130,8 @@ After considering various options, I recommend naming the project **ContentFlowA
 
 The name is concise, memorable, and strikes a balance between being descriptive and unique, making it appealing to developers and AI practitioners. It implies a system where content is seamlessly generated and managed through an AI-driven workflow, aligning perfectly with the project's goals.
 
+## The story with Grok - to be contined
+
 Join us in building upon Grok's legacy—together, we can elevate this project to new heights! Your contributions and ideas will shape its future. Let’s turn this vision into reality! 
 
 
